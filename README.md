@@ -1,13 +1,12 @@
 # Pomodoro-Timer :clock:
 
-
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)
 
 ## Website Link
 
-[Pomodoro Timer](https://sifedine-hajji.github.io/Pomodoro-Timer/)
+[Pomodoro Timer](https://sifedine-hajji.github.io/Pomodoro-Timer/.)
 
-## Project infos 
+## Project infos
 
 - **Type of challenge**: frontend review
 - **Duration**: 1 day
@@ -27,7 +26,8 @@ What you need to get started ...
 
 - basics in **HTML**
 - basics in **CSS**
-- basics in **JavaScript** 
+- basics in **JavaScript**
 
 ## visual :
+
 ![Screenshot](assets/screenshots/Screenshot.PNG)
